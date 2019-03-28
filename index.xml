@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>飞雪无情的博客</title>
-    <link>https://zqitzjm.github.io/</link>
-    <description>Recent content on 飞雪无情的博客</description>
+    <title>山川尽美的博客</title>
+    <link>https://itzjm.github.io/</link>
+    <description>Recent content on 山川尽美的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Thu, 28 Mar 2019 13:34:37 +0800</lastBuildDate>
     
-	<atom:link href="https://zqitzjm.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://itzjm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://zqitzjm.github.io/about/</link>
+      <link>https://itzjm.github.io/about/</link>
       <pubDate>Thu, 28 Mar 2019 13:34:37 +0800</pubDate>
       
-      <guid>https://zqitzjm.github.io/about/</guid>
+      <guid>https://itzjm.github.io/about/</guid>
       <description> 关于我 我目前是丽江白沙那里国际青年旅舍的掌柜，旅舍位于滇西的一个古镇（其实就是普通的乡村而已），接待来自世界各地的游客。如果你有机会到丽江，欢迎下榻我们旅舍。
 计算机爱好者 爱好很多，「什么都略懂一点却一样也不精通」，这是我对自己的评价。也就只有计算机算是自己长期以来坚持的爱好，奈何现代计算机技术分支越来越庞杂，在计算机领域，自己依然是「什么都略懂一点却一样也不精通」。
 家境一般，直到 2011 年，自己打工攒够了钱，买了个人的第一台电脑——宏碁4750g，才算是真正打开计算机世界的大门，开始互联网之旅。4750g 跟着我走过很多地方，换了无数次系统（喜欢瞎折腾），陪伴了我 5 年就退役了。现在的 主力电脑 ，是一台二手的 ThinkPad X230。
@@ -25,19 +25,19 @@
     
     <item>
       <title>My First Post</title>
-      <link>https://zqitzjm.github.io/post/my-first-post/</link>
+      <link>https://itzjm.github.io/post/my-first-post/</link>
       <pubDate>Thu, 28 Mar 2019 12:03:21 +0800</pubDate>
       
-      <guid>https://zqitzjm.github.io/post/my-first-post/</guid>
+      <guid>https://itzjm.github.io/post/my-first-post/</guid>
       <description>测试…….</description>
     </item>
     
     <item>
       <title>归档</title>
-      <link>https://zqitzjm.github.io/archives/</link>
+      <link>https://itzjm.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zqitzjm.github.io/archives/</guid>
+      <guid>https://itzjm.github.io/archives/</guid>
       <description></description>
     </item>
     
